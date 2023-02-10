@@ -16,7 +16,7 @@ spec:
         server: 
           ingress:
             hosts:
-              - argo-workflows.ariansvi.com
+              - argo-workflows.146.148.110.143.ariansvi.com
             enabled: true
             ingressClassName: nginx
         controller:
